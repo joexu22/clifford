@@ -1,8 +1,20 @@
 # Clifford Project
 
 Clifford is a Text Visualization Project.
-With recent developments in ML Natural Language processing and understanding, a use case comes up to leverage data visualization techniques.
-This project will leverage Data Visualization Techniques.
+
+With a flood of content in the ever expanding Internet, reading pure text becomes less and less cost beneficial.
+With advances in ML Natural Language processing, there is an opportunity to leverage 'text visualization' tools.
+Raw Text, can now be "understood" by machines.
+Along with machines, we can leverage existing data visualization tools, to help people better understand text.
+
+
+## The Cool Stuff
+
+Here is a ML example of GPT_Neo:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./gpt_neo/GPTNeo.ipynb)
+
+GPT_NEO is ML of generating text from single user prompts.
 
 ## About
 
@@ -18,12 +30,14 @@ Hopefully, ML will pass along the same wonders of curiosity...
 
 Q:
 What is this project meant to solve?
+
 A:
 In the fast paced lifestyle of the modern day, enjoying a raw text novel is too time intensive.
 The goal of this project is to enrich the reading process so that novels are as "drab" as they appear to be.
 
 Q:
 What is the design philosophy behind this project?
+
 A:
 I take myself back into the days of children's picture books.
 The richness of picture to go along with the understanding of the text truly lit a spark in my understanding of the world.
@@ -36,6 +50,7 @@ This project aims to assist readers of all levels understand their text better.
 
 Q:
 What kind of intuition will be required to realize this project from conception to actualization?
+
 A:
 One needs to think about reverse engineering the plot of the story.
 On technique for reading a complicated novel is to diagram it, this project aims to assist the reader in doing that.
@@ -45,6 +60,7 @@ This project aims to reveal all of the hidden layers behind the scenes while the
 
 Q:
 Why is this important?
+
 A:
 Enrich the Means of Communication
 Assists Understanding
@@ -52,6 +68,7 @@ Promotes Literacy
 
 Q:
 What is the engineering effort?
+
 A:
 Creation of an AI Literature Mentor - An AI (Primary School Educator) that can explain everything as if the reader is 5
   - * Degree of Scaling (The Presentation can be scaled based on the level of the reader)
@@ -63,6 +80,7 @@ Create Graphics on the Fly as the narration advances
 
 Q:
 What other questions are most frequent about this project?
+
 A:
 The frequency of 1, lolz...
 
