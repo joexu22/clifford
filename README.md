@@ -1,26 +1,70 @@
 # Clifford Project
 
-This is a Novel Visualization Project.
+Clifford is a Text Visualization Project.
+With recent developments in ML Natural Language processing and understanding, a use case comes up to leverage data visualization techniques.
+This project will leverage Data Visualization Techniques.
 
+## About
+
+Clifford is inspired by the first book I vividly remember reading as a young child - Clifford, The Big Red Dog.
+This was the first piece of text I read on my own accord without supervision.
+I remember it was the first book I personally checked out of my elementary school library.
+This book launched my on the path of curiosity.
+
+My hope is that I can bring the same level of sentiment towards ML as it starts it's quest of understanding the written language.
+Hopefully, ML will pass along the same wonders of curiosity...
+
+## FAQ
+
+Q:
 What is this project meant to solve?
-In the modern day, books/novels/readings are too time consuming, for this fast paced life style.
-Books give off the sense of dullness.
-Books can be too hard or too complicated in their nature to fully understand.
+A:
+In the fast paced lifestyle of the modern day, enjoying a raw text novel is too time intensive.
+The goal of this project is to enrich the reading process so that novels are as "drab" as they appear to be.
 
-This project will help someone quickly understand the relationships in whatever is is that they are reading.
-This will provide a reading assist tool for users.
+Q:
+What is the design philosophy behind this project?
+A:
+I take myself back into the days of children's picture books.
+The richness of picture to go along with the understanding of the text truly lit a spark in my understanding of the world.
+It was really the first time I understood the concept of "language"
+As we grow up, the text-block based nature of more "adult" literature becomes intimidating.
+It requires from the reader both a vivid imagination and an abstraction [^mental_model] model, to grasp at what is being conveyed.
+This project aims to assist readers of all levels understand their text better.
 
-(Plotting a Novel)
-(Reverse Engineering The Plot of Novels)
+[^mental_model]: A Mental Model (The Mind's Eye); without such a model, it is IMO impossible to read and understand something
 
-This is a project that has been brewing in my mind.
-This is a language understanding project.
+Q:
+What kind of intuition will be required to realize this project from conception to actualization?
+A:
+One needs to think about reverse engineering the plot of the story.
+On technique for reading a complicated novel is to diagram it, this project aims to assist the reader in doing that.
+The texts that people as consumers read are the finished product.
+Plot-line, Story Boards, Chapter Outlines, Topic Inspirations etc. are all missing from the final product (in most cases).
+This project aims to reveal all of the hidden layers behind the scenes while the reader is reading to enrich the process.
 
-Clifford was one of the first books I've ever read in English.
-It was really the first book that cemented my understanding of the English Language.
+Q:
+Why is this important?
+A:
+Enrich the Means of Communication
+Assists Understanding
+Promotes Literacy
 
-I plan to use "clifford" to model a better understanding of the written word.
-The book generates infographics on the fly as the book is narrated or passed along to the reader.
+Q:
+What is the engineering effort?
+A:
+Creation of an AI Literature Mentor - An AI (Primary School Educator) that can explain everything as if the reader is 5
+  - * Degree of Scaling (The Presentation can be scaled based on the level of the reader)
+Creation of a Machine Assisted Processes
+  - Children's Book Illustration
+  - Infographics
+  - Language Diagrams
+Create Graphics on the Fly as the narration advances
+
+Q:
+What other questions are most frequent about this project?
+A:
+The frequency of 1, lolz...
 
 ## Ideas
 
