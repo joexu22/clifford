@@ -2,29 +2,24 @@
 
 Clifford is a Text Visualization Project.
 
-With a flood of content in the ever expanding Internet, reading pure text becomes less and less cost beneficial.
-With advances in ML Natural Language processing, there is an opportunity to leverage 'text visualization' tools.
-Raw Text, can now be "understood" by machines.
-Along with machines, we can leverage existing data visualization tools, to help people better understand text.
+As the Internet continues to expand, reading textual information becomes less and less attractive. People are swarmed with an ever increasing amount of text as they attempt to process and model the world around them. Clifford is framework for visualizing the content of text at a glance. Clifford aims to leverage the advances in ML Natural Language to make understanding the world simpler for people.
 
+## The Cool Stuff - Machine Generated Language Models
 
-## The Cool Stuff
-
-Here is a ML example of GPT_Neo:
+### GPT NEO
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](./gpt_neo/GPTNeo.ipynb)
 
-GPT_NEO is ML of generating text from single user prompts.
+GPT_NEO is a ML model used to generate text. This is a "free" and open source project by EleutherAI.
 
+### OpenAI
+
+OpenAI has a beta which people can access using an API key to generate text.
 ## About
 
-Clifford is inspired by the first book I vividly remember reading as a young child - Clifford, The Big Red Dog.
-This was the first piece of text I read on my own accord without supervision.
-I remember it was the first book I personally checked out of my elementary school library.
-This book launched my on the path of curiosity.
+The name Clifford is inspired by the first book I read as a young child - "Clifford, The Big Red Dog". This was the first book I personally checked out from my elementary school library and the first book I read on my own accord, without adult supervision or guidance. This book launched me on my path of curiosity.
 
-My hope is that I can bring the same level of sentiment towards ML as it starts it's quest of understanding the written language.
-Hopefully, ML will pass along the same wonders of curiosity...
+My hope is that this software can bring the same sentiment to its users - to open the door of curiosity and enable people to explore the wonders of books, stories, and the written text.
 
 ## FAQ
 
