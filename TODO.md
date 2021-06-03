@@ -9,6 +9,11 @@ Some sort of podcast like thing
 AudioBook
 For people are disabled and need help reading a book.
 
+# Architecture
+
+  - Look into AWS S3 Storage
+    - Look into Requester Pay
+
 # Features
 
   - It has text reader in the center
