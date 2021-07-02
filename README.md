@@ -86,6 +86,9 @@ e.g. Maybe Chomsky
 
 Each sentence is diagramed.
 
+Natural Language Processing (NPL)
+  - Machine Learning Applications
+
 ## Graph Visualization
 
 Each Idea will be Graphed

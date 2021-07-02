@@ -27,4 +27,3 @@ For people are disabled and need help reading a book.
   - WEB_APP ?
   - PHONE_APP ?
   - DESKTOP_APP ?
-  
