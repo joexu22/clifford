@@ -2,7 +2,7 @@
 
 Clifford is a Text Visualization Project.
 
-As the Internet continues to expand, reading textual information becomes less and less attractive. People are swarmed with an ever increasing amount of text as they attempt to process and model the world around them. Clifford is framework for visualizing the content of text at a glance. Clifford aims to leverage the advances in ML Natural Language to make understanding the world simpler for people.
+As the Internet continues to expand, reading textual long form information becomes less and less attractive. People are swarmed with an ever increasing amount of text as they attempt to process and model the world around them. Clifford is framework for visualizing the content of text at a glance. Clifford aims to leverage the advances in ML Natural Language to make understanding the world simpler for people.
 
 ## The Cool Stuff - Machine Generated Language Models
 
@@ -12,9 +12,12 @@ As the Internet continues to expand, reading textual information becomes less an
 
 GPT_NEO is a ML model used to generate text. This is a "free" and open source project by EleutherAI.
 
-### OpenAI
+### Text2Image Generation
 
-OpenAI has a beta which people can access using an API key to generate text.
+[Stable Diffusion](https://stability.ai/blog/stable-diffusion-announcement), [OpenAI Dall-e-2](https://openai.com/dall-e-2/), and [Midjourney](https://en.wikipedia.org/wiki/Midjourney)
+
+These are the major players in the Text to Image space
+
 ## About
 
 The name Clifford is inspired by the first book I read as a young child - "Clifford, The Big Red Dog". This was the first book I personally checked out from my elementary school library and the first book I read on my own accord, without adult supervision or guidance. This book launched me on my path of curiosity.
@@ -28,7 +31,7 @@ What is this project meant to solve?
 
 A:
 In the fast paced lifestyle of the modern day, enjoying a raw text novel is too time intensive.
-The goal of this project is to enrich the reading process so that novels are as "drab" as they appear to be.
+The goal of this project is to enrich the reading process so that novels become less "drab" than they appear to be.
 
 Q:
 What is the design philosophy behind this project?
@@ -66,11 +69,13 @@ What is the engineering effort?
 
 A:
 Creation of an AI Literature Mentor - An AI (Primary School Educator) that can explain everything as if the reader is 5
-  - * Degree of Scaling (The Presentation can be scaled based on the level of the reader)
+
+- Degree of Scaling (The Presentation can be scaled based on the level of the reader)
 Creation of a Machine Assisted Processes
-  - Children's Book Illustration
-  - Infographics
-  - Language Diagrams
+- Children's Book Illustration
+- Infographics
+- Language Diagrams
+
 Create Graphics on the Fly as the narration advances
 
 Q:
@@ -87,7 +92,8 @@ e.g. Maybe Chomsky
 Each sentence is diagramed.
 
 Natural Language Processing (NPL)
-  - Machine Learning Applications
+
+- Machine Learning Applications
 
 ## Graph Visualization
 
@@ -100,34 +106,36 @@ Imagination assist tool
 
 ## Current Research - Launch Pad
 
-Really, the idea is that AI will be able to assist someone build the visualization as they are going through the book
-  - Books are drab.
-  - Most people I know, do not want to sit down and go read a book, but what if we made it interactive?
-  - Using AI we can build a live visualized way to consume writing
+Computer Models will be able to assist people, visualizing story aspects, as they read through a book
+
+- Books are too time intensive
+- Many people I know do not want to sit down and read a book, but what if we made it interactive?
+- Using AI we can build a live visualized way to consume writing
   - I am the type of person who goes and reads books sequentially, word by word,
     - the machine can use this method and build the visualization word by word as it goes
 
 INSPIRATION 1 (Infographics) https://ebookfriendly.com/best-book-visualizations/
-  - Info Graphics
-    - (look into the career path of an info graphic artist)
-	- [Object and Relationships]
+
+- Info Graphics
+  - (look into the career path of an info graphic artist)
+  - [Object and Relationships]
 
   - Network Graphs
     - between characters
-	- Network Visualization
-	- [Graph Networks]
+  - Network Visualization
+    - [Graph Networks]
 
   - Pie Diagrams
     - Wheel Diagrams
-	- (Proportionality)
-	- [Mathematics Of Proportions]
+    - (Proportionality)
+    - [Mathematics Of Proportions]
 
-  - Sentence Diagrams 
+  - Sentence Diagrams
     - [Train a ML Network/Create an Application]
 
   - Plot Lines
     - figure out what all the plots are
-	- [Looks like a Transformer]
+    - [Looks like a Transformer]
 
   - Narrative Structure Visualization
     - [Data plotted against Time]
@@ -137,10 +145,10 @@ INSPIRATION 1 (Infographics) https://ebookfriendly.com/best-book-visualizations/
 
   - Word Poster
     - (put all the words on a single page)
-	- (with connections)
-	- [Look into Arrays]
+    - (with connections)
+    - [Look into Arrays]
 
-  - * Character Connection
+  - Character Connection
     - [Relationship Diagram]
 
   - Best Seller List
@@ -149,7 +157,7 @@ INSPIRATION 1 (Infographics) https://ebookfriendly.com/best-book-visualizations/
   - Thematic Flow
     - [Sine/CoSine Stuff]
     - https://techcrunch.com/2014/07/25/apple-booklamp/
-	- Book Genome Project
+    - Book Genome Project
     - Amazon X-Ray
 
   - Color Distribution
@@ -168,25 +176,39 @@ INSPIRATION 1 (Infographics) https://ebookfriendly.com/best-book-visualizations/
     - [Abstraction Task]
 
 INSPIRATION 2 (AI generated novels)
-  - AI Novel
+
+- AI Novel
 
 INSPIRATION 3 (Video Games)
-  - Video Games - Interactive Stories
-	- Narrative Games
-  - Visual Novels - Interactive Stories
+  
+- Video Games - Interactive Stories
+  - Narrative Games
+- Visual Novels - Interactive Stories
 
 INSPIRATION 4 (Writing)
-  - The secret order of people who first started writing things (History)
-  - Steve Jobs and his understanding of calligraphy
-  - User interface for people to understand what is going on
+
+- The secret order of people who first started writing things (History)
+- Steve Jobs and his understanding of calligraphy
+- User interface for people to understand what is going on
 
 INSPIRATION 5 (ATLAS)
-  - Basically a AI generated atlas for every novel
-  - IRONMAN like AI analysis for each new novel
-  - National Geographic Level Analysis
+
+- Basically a AI generated atlas for every novel
+- IRONMAN like AI analysis for each new novel
+- National Geographic Level Analysis
 
 ## MINING RESOURCE
+
 https://ebookfriendly.com/best-book-visualizations/
+
 AI_NOVEL - their technology on generating some VN type of Visualization
+
 Video Games - leverage the tools of interactive story telling
-  - This is more or less a type of video game...
+
+- This is more or less a type of video game...
+
+I've been learning a new language Japanese... I've found this tool, this project was initially envisioned to be the reverse of that
+  
+- https://www.immersionkit.com/
+
+Insight can be gleaned from the theatrical discipline and movie directorial space

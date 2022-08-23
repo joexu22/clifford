@@ -1,29 +1,27 @@
-# Hmm, what is the project
+# TODO?
 
-It will look like an book reader app at the end of the day.
+## Update
 
-# Software Idea
+It's been a year and a half since I initially conceptualize the project.
+The technology is moving fast
 
-This is be some sort of technology to read books.
-Some sort of podcast like thing
-AudioBook
-For people are disabled and need help reading a book.
+## What will this look like at the end of the day?
 
-# Architecture
+People will be able to synthesis the media of their dreams and be able to share it
 
-  - Look into AWS S3 Storage
-    - Look into Requester Pay
+## Software Ideas
 
-# Features
+Text to Image Generation
+.
+.
+.
+-> VR Chat - On the Steam Video Game platform
+-> Basically a HoloDeck (from StarTrek)
+.
+.
+.
+Profit?
+(Betterment of Humanity)
 
-  - It has text reader in the center
-  - It has visualizations that branch to the surrounding
-
-# Interesting Alias
-  
-  - Sinuous Photon
-
-# What we need
-  - WEB_APP ?
-  - PHONE_APP ?
-  - DESKTOP_APP ?
+...
+Basically scrape a novel line-by-line and then feed it to Text-to-Image
